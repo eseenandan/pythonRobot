@@ -1,21 +1,18 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service as ChromeService
+from testing import whatsApp
+from chatGBT import chatGBT
+import time
+import pywhatkit
+import win32api as fastMove
+import win32con
 
 
-service = ChromeService(executable_path=r"C:\\webdrivers\\chromedriver.exe")
-driver = webdriver.Chrome(service=service)
+# time.sleep(10)
+# textMessaging = whatsApp()
+# textMessaging.getMessageAtStart()
+time.sleep(5)
+fastMove.SetCursorPos((1062,1708))
+chatGBT = chatGBT()
+chatGBT.copyGBT()
 
-driver.get("https://www.google.com")
-
-driver.implicitly_wait(5)
-search_box = driver.find_element("name", "q")
-
-search_box.send_keys('dogs')
-
-search_box.submit()
-
-input("press enter to leave")
-driver.quit()
+# if the point at where the message recieved is white then copy the message 
+# for multiple people we can do if the points at a position are blue then do a click then follow the order of operations 
