@@ -5,13 +5,16 @@ import pywhatkit
 import win32api as fastMove
 import win32con
 
-# pywhatkit.sendwhatmsg_instantly(phone_no="+15024963632", message="This is an automated message")
-# time.sleep(10)
-# textMessaging = whatsApp()
+pywhatkit.sendwhatmsg_instantly(phone_no="+15024963632", message="This is an automated message")
+time.sleep(10)
+textMessaging = whatsApp()
 
-# textMessaging.getMessageAtStart()
+textMessaging.getMessageAtStart()
 time.sleep(5)
-fastMove.SetCursorPos((1062,1788))
+
+# for testing
+# fastMove.SetCursorPos((1062,1788))
+
 chatGBT = chatGBT()
 chatGBT.copyGBT()
 

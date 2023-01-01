@@ -16,7 +16,7 @@ class chatGBT:
         px = pyautogui.pixel(position.x, position.y)
 
         # bot needs time to write out the stuff
-        time.sleep(2)
+        time.sleep(20)
 
         # while the pixel doesnt equal grey move the cursor up
         while px != (247, 247, 248):
