@@ -1,72 +1,98 @@
 import pyautogui
-import time 
+import time
 import win32api as fastMove
 import win32con
-
 
 
 class chatGBT:
     def __init__(self) -> None:
         pass
-    
-    def copyGBT(self):
-        while True:
-            pyautogui.hotkey('enter')
-            position = pyautogui.position()
-            px = pyautogui.pixel(position.x, position.y)
-            time.sleep(5)
-            # print(px)
-            # if the cursor is grey then scroll up until white 
-            
-            # while the pixel doesnt equal white then scroll up
-            while px == (255,255,255):
-                pyautogui.scroll(35)
-                position = pyautogui.position()
-                px = pyautogui.pixel(position.x,position.y)
-               
-            # if the cursor is grey then scroll up until white    
-            while px == (247, 247, 248):
-                    pyautogui.scroll(10)
-                    position = pyautogui.position()
-                    px = pyautogui.pixel(position.x, position.y)
-            # Scroll down when white is hit
-            if px == (255, 255, 255):
-                pyautogui.scroll(-35)
-                position = pyautogui.position()
-                px = pyautogui.pixel(position.x,position.y)
-                print("the px should be grey ", px)
-                break       
 
-        print("hello there")
-        position = pyautogui.position()
-        px = pyautogui.pixel(position.x,position.y)
-        print(px)
-        pyautogui.scroll(-5)
+    def copyGBT(self):
+
+        count = 0
+        pyautogui.hotkey('enter')
         position = pyautogui.position()
         px = pyautogui.pixel(position.x, position.y)
-        print(px)
-        # Check if the cursor is still grey after breaking the loop
+
+        # bot needs time to write out the stuff
+        time.sleep(2)
+
+        # while the pixel doesnt equal grey move the cursor up
+        while px != (247, 247, 248):
+            print(px)
+            y = position.y - 80
+            fastMove.SetCursorPos((position.x, y))
+            position = pyautogui.position()
+            print(position)
+            px = pyautogui.pixel(position.x, position.y)
+
+        # if the cursor is grey then scroll up until white (doesnt work if we cant scroll)
+        while px == (247, 247, 248):
+                print("pixel is grey", px)
+                pyautogui.scroll(20)
+                position = pyautogui.position()
+                px = pyautogui.pixel(position.x, position.y)
+                count = count + 1
+
+                # if you cant scroll anymore then we are gonna have to change the cursor position instead
+                if count > 100:
+                    while px == (247, 247, 248):
+                        fastMove.SetCursorPos(
+                            (position.x, position.y - 20))
+                        position = pyautogui.position()
+                        px = pyautogui.pixel(position.x, position.y)
+
+        # # # Scroll down when white is hit
+        if px == (255, 255, 255):
+            pyautogui.scroll(-80)
+            position = pyautogui.position()
+            px = pyautogui.pixel(position.x, position.y)
+
+        position = pyautogui.position(position.x, position.y)
+        px = pyautogui.pixel(position.x, position.y)
+        print("the px should be grey now", px)
+        
+        # but somehow if still white move the cursor in the grey
+        if px == (255,255,255):
+            print("we found that it is white")
+            while px == (255,255,255):
+                if px == (247, 247, 248):
+                    break
+                else:
+                    fastMove.SetCursorPos((position.x,position.y + 20))
+                    position = pyautogui.position()
+                    px = pyautogui.pixel(position.x,position.y)
+                    print("it should move the cursor down more")
+
+
+    # # Check if the cursor is still grey after breaking the loop
         if px == (247, 247, 248):
             print("entered the if loop")
             position = pyautogui.position()
-            # supposed to scroll hold the mouse click down until it sees a mouseUp
+        # supposed to scroll hold the mouse click down until it sees a mouseUp
             pyautogui.mouseDown(position.x, position.y, button = "left")
-            pyautogui.scroll(-5000)
-            # the initial position is used for checking the scroll has reached the bottom
             time.sleep(1)
+            pyautogui.scroll(-50000)
+            time.sleep(1)
+            fastMove.SetCursorPos((position.x, position.y + 10000))
+            position = pyautogui.position()            
+
             # while pixel is not white scroll down 
             while px == (247,247,248):
                 print("entered the while loop")
-                pyautogui.moveTo(position.x,position.y + 30.0)
+                fastMove.SetCursorPos((position.x,position.y + 30))
                 print(px)
                 px = pyautogui.pixel(position.x,position.y)
                 print(px)
                 position = pyautogui.position()
-                
-            if px == (255, 255, 255): 
-                print("Color is equal to white again")
-                pyautogui.scroll(20)
-                px = pyautogui.pixel(position.x, position.y)
-                pyautogui.mouseUp()
-                pyautogui.hotkey('ctrl', 'c')
+        
+            
+            pyautogui.mouseUp()
+            pyautogui.hotkey('ctrl', 'c')
+            print("copy text")
+            pyautogui.hotkey('ctrl', 'SHIFT', 'TAB')
+            pyautogui.hotkey('ctrl', 'v')
+            time.sleep(5)
+            pyautogui.hotkey('Enter')
             

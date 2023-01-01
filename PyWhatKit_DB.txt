@@ -373,3 +373,18 @@ Time: 22:50
 Phone Number: +15024963632
 Message: This is an automated message. You have 20 seconds to respond to use this feature.
 --------------------
+Date: 31/12/2022
+Time: 14:30
+Phone Number: +15024963632
+Message: This is an automated message
+--------------------
+Date: 31/12/2022
+Time: 14:33
+Phone Number: +15024963632
+Message: This is an automated message
+--------------------
+Date: 31/12/2022
+Time: 14:39
+Phone Number: +15024963632
+Message: This is an automated message
+--------------------

@@ -14,7 +14,7 @@ class whatsApp:
         # goes to the lowest position where the text is recieved then it goes to the bottom to grab text 
         while True:
             self.copyTexts()
-            time.sleep(10)
+            time.sleep(0.2)
             pyautogui.typewrite("https://chat.openai.com/chat")
             pyautogui.hotkey('enter')
             print("enter pressed")
@@ -40,8 +40,6 @@ class whatsApp:
             
             count = 5
             if px == (255,255,255):
-            
-                time.sleep(2)
                 fastMove.SetCursorPos((position.x, position.y))
                 position = pyautogui.position(position.x,position.y) # basically for getting the new position of cursor
                 pyautogui.mouseDown(None,None,button='left')
