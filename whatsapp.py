@@ -43,7 +43,7 @@ import win32con
 # pyautogui.leftClick(1097,1684)
 
 while True:
-    fastMove.SetCursorPos((1062, 368))
+    # fastMove.SetCursorPos((1062, 368))
     position = pyautogui.position()
     px = pyautogui.pixel(position.x, position.y)
     print(pyautogui.position())

@@ -3,32 +3,47 @@ import time
 import pywhatkit
 import win32api as fastMove
 import win32con
-
+import pyperclip as pc
+import re
 
 
 class whatsApp:
-    def __init__(self) -> None:
-        pass
+    def __init__(self):
+        self.stopProgram = False
+        self.count = 0
         
     def getMessageAtStart(self):        
         # goes to the lowest position where the text is recieved then it goes to the bottom to grab text 
-        while True:
-            self.copyTexts()
+        self.copyTexts()
+        self.count = self.count + 1
+        copiedMessage = pc.paste()
+        
+        if 'stop program' in copiedMessage.lower():
+            self.stopProgram = True
+            pass   
+        elif self.count == 1:
             time.sleep(0.2)
             pyautogui.typewrite("https://chat.openai.com/chat")
             pyautogui.hotkey('enter')
             print("enter pressed")
             
             # need time to connect first time you enter website if you havent logged in prior
-            time.sleep(15)
+            while True:
+                if pyautogui.locateOnScreen('responseArrow.png', grayscale= False,confidence=0.90) != None:
+                    pyautogui.hotkey('ctrl', 'v')
+                    print("paste pressed")
+                    self.count = self.count + 1
+                    break
             # fastMove.SetCursorPos((1230,1769))
             # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0)
             # time.sleep(0.01)
             # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0)
+            
+        else:
+            time.sleep(0.5)
             pyautogui.hotkey('ctrl', 'v')
-            print("paste pressed")
-            break
-
+            
+            
 
     def copyTexts(self):
          # goes to the lowest position where the text is recieved then it goes to the bottom to grab text 
@@ -94,11 +109,23 @@ class whatsApp:
                 pyautogui.moveTo(position.x, y)  
                 pyautogui.mouseUp()
                 pyautogui.hotkey('ctrl', 'c')
-                pyautogui.hotkey('ctrl','t')
+                copiedMessage = pc.paste()
+                
+                if 'stop program' in copiedMessage.lower():
+                    self.stopProgram = True
+                    pass
+                
+                else:
+                    pyautogui.hotkey('ctrl','t')
+                    
+                False
                 break
-            
+             
+            # if the position at the pixel is white just sleep and have it re run the while loop  
             elif px != (255,255,255):
                 time.sleep(5)
                 count = count + 1
+            # if the count is greater than 5 just assume the person wants to quit  
             elif count > 5:
+                self.stopProgram = True
                 break
