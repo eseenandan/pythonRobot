@@ -8,23 +8,20 @@ import pyautogui
 
 pywhatkit.sendwhatmsg_instantly(phone_no="+15024963632", message="To stop the program, please enter ""stop program"" to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)")
 time.sleep(10)
-
+count = 1
 while True: 
-    textMessaging = whatsApp()
+    textMessaging = whatsApp(count)
     textMessaging.getMessageAtStart()
-
+    count = count + 1
+    print(count)
     if textMessaging.stopProgram == True:
         pyautogui.typewrite("Program has been terminated. Thanks for using the program. Please message back to restablish connection.")
         pyautogui.hotkey('enter')
         break
     else:
         time.sleep(5)
-
-    # for testing
-    # fastMove.SetCursorPos((1062,1788))
-
-        chatGBT = chatGBT()
-        chatGBT.copyGBT()
+        chat = chatGBT()
+        chat.copyGBT()
         
         
 

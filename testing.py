@@ -8,14 +8,13 @@ import re
 
 
 class whatsApp:
-    def __init__(self):
+    def __init__(self, count):
         self.stopProgram = False
-        self.count = 0
+        self.count = count
         
     def getMessageAtStart(self):        
         # goes to the lowest position where the text is recieved then it goes to the bottom to grab text 
         self.copyTexts()
-        self.count = self.count + 1
         copiedMessage = pc.paste()
         
         if 'stop program' in copiedMessage.lower():
@@ -32,19 +31,22 @@ class whatsApp:
                 if pyautogui.locateOnScreen('responseArrow.png', grayscale= False,confidence=0.90) != None:
                     pyautogui.hotkey('ctrl', 'v')
                     print("paste pressed")
-                    self.count = self.count + 1
                     break
             # fastMove.SetCursorPos((1230,1769))
             # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0)
             # time.sleep(0.01)
             # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0)
             
+            # need to fix it so that the ctrl v can be pasted in there then we done
         else:
-            time.sleep(0.5)
-            pyautogui.hotkey('ctrl', 'v')
-            
-            
-
+            while True:
+                if pyautogui.locateOnScreen('responseArrow.png', grayscale= False,confidence=0.90) != None:
+                    position = pyautogui.position()
+                    fastMove.SetCursorPos((position.x,position.y - 25))
+                    pyautogui.leftClick()
+                    pyautogui.hotkey('ctrl', 'v')
+                    break
+        
     def copyTexts(self):
          # goes to the lowest position where the text is recieved then it goes to the bottom to grab text 
         while True:
@@ -113,13 +115,20 @@ class whatsApp:
                 
                 if 'stop program' in copiedMessage.lower():
                     self.stopProgram = True
-                    pass
+                    False 
+                    break
                 
-                else:
+                # if we are going the the program only the first time 
+                elif self.count == 1:
                     pyautogui.hotkey('ctrl','t')
-                    
-                False
-                break
+                    False
+                    break
+                
+                # after the program is ran once then we just do ctrl tab
+                else:
+                    pyautogui.hotkey('ctrl', 'tab')
+                    False
+                    break
              
             # if the position at the pixel is white just sleep and have it re run the while loop  
             elif px != (255,255,255):

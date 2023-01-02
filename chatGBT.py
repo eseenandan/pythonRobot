@@ -16,8 +16,6 @@ class chatGBT:
         px = pyautogui.pixel(position.x, position.y)
 
         while True:
-            print("checking if the response is generated")
-            time.sleep(5)
         # bot needs time to write out the stuff
             if pyautogui.locateOnScreen('responseArrow.png', grayscale= False,confidence=0.90) != None:
                 
@@ -33,17 +31,15 @@ class chatGBT:
 
                 # if the cursor is grey then scroll up until white (doesnt work if we cant scroll)
                 while px == (247, 247, 248):
-                        print("pixel is grey", px)
                         pyautogui.scroll(20)
                         position = pyautogui.position()
                         px = pyautogui.pixel(position.x, position.y)
                         count = count + 1
 
                         # if you cant scroll anymore then we are gonna have to change the cursor position instead
-                        if count > 100:
+                        if count > 80:
                             while px == (247, 247, 248):
-                                fastMove.SetCursorPos(
-                                    (position.x, position.y - 20))
+                                fastMove.SetCursorPos((position.x, position.y - 20))
                                 position = pyautogui.position()
                                 px = pyautogui.pixel(position.x, position.y)
 
