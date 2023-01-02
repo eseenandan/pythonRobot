@@ -135,6 +135,6 @@ class whatsApp:
                 time.sleep(5)
                 count = count + 1
             # if the count is greater than 5 just assume the person wants to quit  
-            elif count > 5:
+            elif count > 500:
                 self.stopProgram = True
                 break

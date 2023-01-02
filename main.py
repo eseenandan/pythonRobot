@@ -2,11 +2,9 @@ from testing import whatsApp
 from chatGBT import chatGBT
 import time
 import pywhatkit
-import win32api as fastMove
-import win32con
 import pyautogui
 
-pywhatkit.sendwhatmsg_instantly(phone_no="+15024963632", message="To stop the program, please enter ""stop program"" to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)")
+pywhatkit.sendwhatmsg_instantly(phone_no="+14253438117", message="To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)")
 time.sleep(10)
 count = 1
 while True: 
