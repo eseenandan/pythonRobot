@@ -16,7 +16,7 @@ class chatGBT:
         px = pyautogui.pixel(position.x, position.y)
 
         while True:
-        # bot needs time to write out the stuff
+        # bot needs time to write out the stuff so if there isnt a reponse arrow dont do this code 
             if pyautogui.locateOnScreen('responseArrow.png', grayscale= False,confidence=0.90) != None:
                 
 
@@ -29,8 +29,8 @@ class chatGBT:
                     print(position)
                     px = pyautogui.pixel(position.x, position.y)
 
-                # if the cursor is grey then scroll up until white (doesnt work if we cant scroll)
-                while px == (247, 247, 248):
+                # if the cursor is grey then scroll up unitl we do have our image
+                while pyautogui.locateOnScreen('chatGBT.png', confidence=0.90) == None:
                         pyautogui.scroll(20)
                         position = pyautogui.position()
                         px = pyautogui.pixel(position.x, position.y)
@@ -43,30 +43,21 @@ class chatGBT:
                                 position = pyautogui.position()
                                 px = pyautogui.pixel(position.x, position.y)
 
-                # # # Scroll down when white is hit
-                if px == (255, 255, 255):
-                    pyautogui.scroll(-85)
-                    position = pyautogui.position()
-                    px = pyautogui.pixel(position.x, position.y)
 
-                position = pyautogui.position(position.x, position.y)
-                px = pyautogui.pixel(position.x, position.y)
-                print("the px should be grey now", px)
+                chatIcon = pyautogui.locateOnScreen('chatGBT.png', confidence=0.90)
+                x,y = pyautogui.center(chatIcon)
+                position = pyautogui.position(x + 60,y - 20)
+                print(position)
+                fastMove.SetCursorPos((position.x, position.y))
+
+            #     position = pyautogui.position(position.x, position.y)
+            #     px = pyautogui.pixel(position.x, position.y)
+            #     print("the px should be grey now", px)
                 
-                # but somehow if still white move the cursor in the grey
-                if px == (255,255,255):
-                    print("we found that it is white")
-                    while px == (255,255,255):
-                        if px == (247, 247, 248):
-                            break
-                        else:
-                            fastMove.SetCursorPos((position.x,position.y + 20))
-                            position = pyautogui.position()
-                            px = pyautogui.pixel(position.x,position.y)
-                            print("it should move the cursor down more")
 
 
-            # # Check if the cursor is still grey after breaking the loop
+
+            # # # Check if the cursor is still grey after breaking the loop
                 if px == (247, 247, 248):
                     print("entered the if loop")
                     position = pyautogui.position()
