@@ -25,6 +25,7 @@ class whatsApp:
             pyautogui.typewrite("https://chat.openai.com/chat")
             pyautogui.hotkey('enter')
             print("enter pressed")
+            self.count = self.count + 1
             
             # need time to connect first time you enter website if you havent logged in prior
             while True:
