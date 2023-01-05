@@ -638,3 +638,23 @@ Time: 21:26
 Phone Number: +15024963632
 Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
 --------------------
+Date: 4/1/2023
+Time: 23:39
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 23:52
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:6
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:9
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------

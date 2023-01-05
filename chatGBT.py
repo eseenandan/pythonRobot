@@ -45,7 +45,7 @@ class chatGBT:
 
                 # # # Scroll down when white is hit
                 if px == (255, 255, 255):
-                    pyautogui.scroll(-80)
+                    pyautogui.scroll(-85)
                     position = pyautogui.position()
                     px = pyautogui.pixel(position.x, position.y)
 
