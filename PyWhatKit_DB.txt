@@ -1,115 +1,780 @@
-Date: 27/12/2022
-Time: 10:37
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 10:41
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 10:43
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 11:39
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 11:47
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 11:48
-Phone Number: +573026376527
-Message: This is an automated message
---------------------
-Date: 27/12/2022
-Time: 12:15
+Date: 28/12/2022
+Time: 23:45
 Phone Number: +15024963632
-Message: This is an automated message
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
 --------------------
-Date: 27/12/2022
+Date: 28/12/2022
+Time: 23:51
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 28/12/2022
+Time: 23:55
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 28/12/2022
+Time: 23:57
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 28/12/2022
+Time: 23:58
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:0
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:4
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:5
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:9
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:13
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:15
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 0:16
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 8:49
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 8:56
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 8:57
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 8:59
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:0
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:2
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:31
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:32
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:34
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:34
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:35
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:39
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:41
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:43
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:44
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:47
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:50
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:52
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:54
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:55
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 9:58
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:0
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:1
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:53
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:56
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:57
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 10:58
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:0
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:2
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:6
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:8
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:9
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:26
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:27
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:30
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 11:33
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:20
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:22
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:24
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:27
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:28
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
 Time: 12:30
 Phone Number: +15024963632
-Message: This is an automated message
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
 --------------------
-Date: 27/12/2022
+Date: 29/12/2022
+Time: 12:32
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
 Time: 12:33
 Phone Number: +15024963632
-Message: This is an automated message
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
 --------------------
-Date: 27/12/2022
-Time: 12:34
+Date: 29/12/2022
+Time: 12:36
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:37
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:38
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:41
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 29/12/2022
+Time: 12:54
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:28
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:30
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:33
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:35
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:37
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:55
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 21:58
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:3
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:4
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:38
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:40
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:45
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:48
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 30/12/2022
+Time: 22:50
+Phone Number: +15024963632
+Message: This is an automated message. You have 20 seconds to respond to use this feature.
+--------------------
+Date: 31/12/2022
+Time: 14:30
 Phone Number: +15024963632
 Message: This is an automated message
 --------------------
-Date: 27/12/2022
-Time: 13:12
+Date: 31/12/2022
+Time: 14:33
 Phone Number: +15024963632
 Message: This is an automated message
 --------------------
-Date: 27/12/2022
-Time: 22:0
+Date: 31/12/2022
+Time: 14:39
 Phone Number: +15024963632
 Message: This is an automated message
 --------------------
-Date: 27/12/2022
-Time: 23:1
+Date: 1/1/2023
+Time: 0:37
 Phone Number: +15024963632
 Message: This is an automated message
 --------------------
-Date: 28/12/2022
+Date: 1/1/2023
+Time: 0:41
+Phone Number: +15024963632
+Message: This is an automated message
+--------------------
+Date: 1/1/2023
 Time: 0:44
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: This is an automated message
 --------------------
-Date: 28/12/2022
-Time: 0:45
-Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
---------------------
-Date: 28/12/2022
-Time: 0:47
-Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
---------------------
-Date: 28/12/2022
-Time: 0:50
-Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
---------------------
-Date: 28/12/2022
-Time: 13:39
+Date: 1/1/2023
+Time: 15:39
 Phone Number: +15024963632
 Message: This is an automated message
 --------------------
-Date: 28/12/2022
-Time: 13:43
+Date: 1/1/2023
+Time: 15:41
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: This is an automated message
 --------------------
-Date: 28/12/2022
-Time: 13:45
+Date: 1/1/2023
+Time: 15:50
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: This is an automated message
 --------------------
-Date: 28/12/2022
-Time: 14:41
+Date: 1/1/2023
+Time: 15:51
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: You have stopped the program. Message owner to restablish network connection. Thank you!
 --------------------
-Date: 28/12/2022
-Time: 14:42
+Date: 1/1/2023
+Time: 15:55
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: This is an automated message
 --------------------
-Date: 28/12/2022
-Time: 14:43
+Date: 1/1/2023
+Time: 15:58
 Phone Number: +15024963632
-Message: This is an automated message. You have 20 seconds to respond to use this feature.
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 17:45
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 17:47
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 17:50
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 17:52
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 17:56
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:0
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:4
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:10
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:21
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:24
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:29
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:37
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:44
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 1/1/2023
+Time: 18:46
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 0:58
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:10
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:16
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:24
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:29
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:32
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:36
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 1:40
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:24
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:31
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:34
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:36
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:38
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:44
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:50
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:56
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 12:58
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 13:2
+Phone Number: +15024963632
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 13:15
+Phone Number: +14253147806
+Message: To stop the program, please enter stop program to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 13:44
+Phone Number: +14253438117
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 2/1/2023
+Time: 16:21
+Phone Number: +14253438117
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 3/1/2023
+Time: 17:30
+Phone Number: +151983541375
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 3/1/2023
+Time: 17:32
+Phone Number: +51983541375
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 3/1/2023
+Time: 18:8
+Phone Number: +51983541375
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 20:35
+Phone Number: +573026376527
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 20:49
+Phone Number: +573026376527
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 21:26
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 23:39
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 4/1/2023
+Time: 23:52
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:6
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:9
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:28
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:31
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:33
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:37
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 0:58
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:13
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:18
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:24
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:26
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:28
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:30
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 1:32
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:26
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:27
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:29
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:31
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:34
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:37
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:46
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 22:54
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 23:3
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 23:7
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 23:15
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
+--------------------
+Date: 5/1/2023
+Time: 23:33
+Phone Number: +15024963632
+Message: To stop the program, please enter 'stop program' to terminate the program. Until then, message whatever you want. This is an automated message. I am just a bot :)
 --------------------
