@@ -9,8 +9,6 @@ class chatGBT:
         pass
 
     def copyGBT(self):
-
-        count = 0
         pyautogui.hotkey('enter')
         position = pyautogui.position()
         px = pyautogui.pixel(position.x, position.y)
@@ -31,41 +29,21 @@ class chatGBT:
 
                 # if the cursor is grey then scroll up unitl we do have our image
                 while pyautogui.locateOnScreen('chatGBT.png', confidence=0.90) == None:
-                        pyautogui.scroll(20)
+                        pyautogui.scroll(600)
                         position = pyautogui.position()
                         px = pyautogui.pixel(position.x, position.y)
-                        count = count + 1
-
-                        # if you cant scroll anymore then we are gonna have to change the cursor position instead
-                        if count > 80:
-                            while px == (247, 247, 248):
-                                fastMove.SetCursorPos((position.x, position.y - 20))
-                                position = pyautogui.position()
-                                px = pyautogui.pixel(position.x, position.y)
-
-
-                chatIcon = pyautogui.locateOnScreen('chatGBT.png', confidence=0.90)
-                x,y = pyautogui.center(chatIcon)
-                position = pyautogui.position(x + 60,y - 20)
-                print(position)
-                fastMove.SetCursorPos((position.x, position.y))
-
-            #     position = pyautogui.position(position.x, position.y)
-            #     px = pyautogui.pixel(position.x, position.y)
-            #     print("the px should be grey now", px)
-                
 
 
 
-            # # # Check if the cursor is still grey after breaking the loop
+            # Check if the cursor is still grey after breaking the loop
                 if px == (247, 247, 248):
                     print("entered the if loop")
                     position = pyautogui.position()
                 # supposed to scroll hold the mouse click down until it sees a mouseUp
                     pyautogui.mouseDown(position.x, position.y, button = "left")
-                    time.sleep(1)
+                    time.sleep(0.25)
                     pyautogui.scroll(-50000)
-                    time.sleep(1)
+                    time.sleep(0.25)
                     fastMove.SetCursorPos((position.x, position.y + 10000))
                     position = pyautogui.position()            
 
@@ -84,7 +62,7 @@ class chatGBT:
                     print("copy text")
                     pyautogui.hotkey('ctrl', 'SHIFT', 'TAB')
                     pyautogui.hotkey('ctrl', 'v')
-                    time.sleep(5)
+                    time.sleep(1)
                     pyautogui.hotkey('Enter')
                     
                     # exit out of the while loop

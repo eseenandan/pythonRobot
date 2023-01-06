@@ -33,10 +33,7 @@ class whatsApp:
                     pyautogui.hotkey('ctrl', 'v')
                     print("paste pressed")
                     break
-            # fastMove.SetCursorPos((1230,1769))
-            # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0)
-            # time.sleep(0.01)
-            # fastMove.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0)
+
             
             # need to fix it so that the ctrl v can be pasted in there then we done
         else:

@@ -24,7 +24,7 @@ def submit():
             window.destroy()
             break
         else:
-            time.sleep(5)
+            time.sleep(2)
             chat.copyGBT()
             
 
